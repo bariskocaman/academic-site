@@ -9,9 +9,9 @@ authors:
 - Robert Ford
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -37,7 +37,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -55,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+# preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
