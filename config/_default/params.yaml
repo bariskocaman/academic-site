@@ -20,23 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: b.kocaman@tue.nl
+phone: +31 40 247 61 01
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Groene Loper 3
+  city: Eindhoven
+  region: ''
+  postcode: 5612 AE
+  country: Netherlands
+  country_code:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -119,18 +115,18 @@ projects:
   talk_view: 2
 breadcrumb:
   page_types:
-    book: true
+    book: false
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:
