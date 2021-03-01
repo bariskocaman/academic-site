@@ -31,7 +31,7 @@ education:
   - course: BSc in Industrial Engineering 
     institution: Bilkent University
     year: 2015
-    course: Minor in Economics 
+  - course: Minor in Economics 
     institution: Bilkent University
     year: 2015
 
