@@ -1,14 +1,37 @@
 ---
-# Replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name, respectively.
-widget: 'github.<USERNAME>.<WIDGET-NAME>'
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pubtabs
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 40
 
-title: Hello
+title: Working Papers
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+pubtabs:
+  - articletitle: CEO
+    journal: GenCoin
+    company_url: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Analysing
+        * Modelling
+        * Deploying
+        
 ---
-
-Welcome to my new widget!
