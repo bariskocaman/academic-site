@@ -26,8 +26,8 @@ experience:
     company: GenCoin
     company_url: ''
     location: California
-    date_start: ' '
-    date_end: ' '
+    date_start: '2016-01-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
